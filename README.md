@@ -2,7 +2,7 @@
 
 ## Contents
 1. [Introduction](#introduction)
-2. [Project Team and Contributions] 
+2. [Project Team and Contributions](#project )
 3. [What Is Ebola?](#what-is-ebola)  
 4. [How Ebola Spreads](#how-ebola-spreads)  
 5. [Symptoms](#symptoms)  
