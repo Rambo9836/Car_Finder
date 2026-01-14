@@ -14,7 +14,9 @@
 ---
 
 ## Introduction
-**Ebola Virus Disease (EVD)** is a serious infectious disease caused by viruses in the genus **_Ebolavirus_**. It is known for causing sudden illness that can become severe and life-threatening without timely medical care and strong public health measures. While outbreaks have occurred primarily in parts of **sub-Saharan Africa**, Ebola remains a global health concern because outbreaks can expand quickly if not contained. This README provides a clear overview of what Ebola is, how it spreads, its symptoms, and the main approaches used to treat and prevent it.
+Ebola Virus Disease (EVD) is caused by viruses from the Ebolavirus. This illness is characterized by a sudden onset of sickness. If not treated, symptoms can be life-threatening. With swift and powerful actions by public health authorities, the threat can be reduced. Outbreaks of this disease have occurred in parts of sub-Sahara Africa, but it is not a disease of the region. Ebola outbreak is a major public health threat at the global level.
+
+This document will give you the clear information on this disease that you need to know about Ebola.  We will examine the ways in which it spreads, the symptoms,
 ---
 
 ## What Is Ebola?
