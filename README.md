@@ -84,8 +84,8 @@ Effective control relies on coordinated public health action, including:
 
 
 ## Conclusion
-Ebola Virus Disease (EVD) is a highly contagious illness, outbreak of which can happen without accessing timely clinical care and implementing appropriate public health intervention. Ebola virus outbreak prevention and control requires a basic understanding of how the virus spreads, what symptoms are associated with Ebola, and proven strategies.
-The effective isolation and contact tracing of Ebola patients; safe care of these patients; and safe and dignified burial. In certain instances, immunization might also be employed.
+**Ebola Virus Disease (EVD) is a highly contagious illness, outbreak of which can happen without accessing timely clinical care and implementing appropriate public health intervention. Ebola virus outbreak prevention and control requires a basic understanding of how the virus spreads, what symptoms are associated with Ebola, and proven strategies.
+The effective isolation and contact tracing of Ebola patients; safe care of these patients; and safe and dignified burial. In certain instances, immunization might also be employed.**
 ---
 
 ## References / Further Reading
