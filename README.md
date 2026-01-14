@@ -8,7 +8,7 @@
 6. [Diagnosis](#diagnosis)  
 7. [Treatment and Care](#treatment-and-care)  
 8. [Prevention and Control](#prevention-and-control)
-9.   
+9.  [Project Team and Contributions](#project )  
 10. [Conclusion](#conclusion)  
 11. [References / Further Reading](#references--further-reading)
 ---
@@ -77,6 +77,9 @@ Effective control relies on coordinated public health action, including:
 - **Safe and dignified burials** to prevent exposure during funeral practices
 - **Vaccination** strategies in outbreak contexts (when available and recommended)
 ---
+## Project Team and Contributions
+
+
 
 ## Conclusion
 Ebola Virus Disease is a high-impact infectious disease that can escalate quickly without rapid clinical care and strong public health measures. Understanding **how Ebola spreads**, recognizing **symptoms early**, and implementing proven strategies—such as **isolation, contact tracing, safe care practices, and vaccination where appropriate**—are key to preventing and controlling outbreaks. Ongoing education, preparedness, and healthcare support remain essential to reducing illness and saving lives.
