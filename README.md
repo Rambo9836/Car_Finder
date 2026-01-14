@@ -1,15 +1,16 @@
 # README — Ebola (Ebola Virus Disease, EVD)
 
 ## Contents
-1. [Introduction](#introduction)  
-2. [What Is Ebola?](#what-is-ebola)  
-3. [How Ebola Spreads](#how-ebola-spreads)  
-4. [Symptoms](#symptoms)  
-5. [Diagnosis](#diagnosis)  
-6. [Treatment and Care](#treatment-and-care)  
-7. [Prevention and Control](#prevention-and-control)  
-8. [Conclusion](#conclusion)  
-9. [References / Further Reading](#references--further-reading)
+1. [Introduction](#introduction)
+2. [Project Team and Contributions] 
+3. [What Is Ebola?](#what-is-ebola)  
+4. [How Ebola Spreads](#how-ebola-spreads)  
+5. [Symptoms](#symptoms)  
+6. [Diagnosis](#diagnosis)  
+7. [Treatment and Care](#treatment-and-care)  
+8. [Prevention and Control](#prevention-and-control)  
+9. [Conclusion](#conclusion)  
+10. [References / Further Reading](#references--further-reading)
 ---
 
 ## Introduction
