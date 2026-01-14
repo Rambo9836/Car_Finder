@@ -16,7 +16,7 @@
 ## Introduction
 Ebola Virus Disease (EVD) is caused by viruses from the Ebolavirus. This illness is characterized by a sudden onset of sickness. If not treated, symptoms can be life-threatening. With swift and powerful actions by public health authorities, the threat can be reduced. Outbreaks of this disease have occurred in parts of sub-Sahara Africa, but it is not a disease of the region. Ebola outbreak is a major public health threat at the global level.
 
-This document will give you the clear information on this disease that you need to know about Ebola.  We will examine the ways in which it spreads, the symptoms,
+This document will give you the clear information on this disease that you need to know about Ebola.  We will examine the ways in which it spread and the symptoms.
 ---
 
 ## What Is Ebola?
